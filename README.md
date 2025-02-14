@@ -34,7 +34,7 @@ a self-taught frontend developer committed to continuous learning.
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" alt="Sass" title="Sass"/></td>
     <td><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/></td>
-    <td><img width="30" src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/shadcnui.svg" alt="shadcn/ui" title="shadcn/ui"/></td>
+    <td><img width="30" src="https://raw.githubusercontent.com/xandemon/developer-icons/refs/heads/main/icons/shadcnui.svg" alt="shadcn/ui" title="shadcn/ui"/></td>
     <td><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI"/></td>
     <td><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/></td>
   </tr>
